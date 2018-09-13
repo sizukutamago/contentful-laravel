@@ -150,6 +150,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Contentful\Laravel\ContentfulServiceProvider::class,
 
         /*
          * Application Service Providers...
